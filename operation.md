@@ -28,7 +28,7 @@ Reducing complexity helps maintaining clear vision and keeping track of remainin
 Visualization is key to have a clear view of current progress and status of issues. A kanban board is a simple and effective solution. 
 This board can be on your computer or in your office as well. It contains columns as a spreadsheet does, pipes if you'd like. 
 Every pipe represents a lifecycle stage of the issues. These stages mostly consist of Backlog, Todo, In Progress, Verify and Done. 
-Pipes can have many names, it is not uncommon to see one or two stages come and go but this 4-5 stage is the most common. 
+Pipes can have many names, it is not uncommon to see one or two stages come and go but these 5 stages are the most common. 
 When an issue steps into the next stage, it is moved by the person who makes the transfer. 
 It can be a physical movement on the board or a drag-and-drop effect maybe selecting an option from a dropdown. 
 The board helps get a clear view of the issues, seeing in an instant what is is progress, what has to be verified and what are the top-priority todo items.
