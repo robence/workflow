@@ -20,7 +20,7 @@ A user story tells what should happen, a task guides us through the how.
 
 #### Issues
 While a task helps a developer, it is often just a tiny piece, one of the many. A developer can be easily overwhelmed by the number of tasks, 
-the number of things one has to deliver. To get a clear view how each task connects to the others a hierarchy os desired. 
+the number of things one has to deliver. To get a clear view how each task connects to the others a hierarchy is desired. 
 Tasks are organized into issues containing only a handful of items. 
 Reducing complexity helps maintaining clear vision and keeping track of remaining objectives.
 
