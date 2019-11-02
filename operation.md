@@ -42,8 +42,17 @@ To keep track of the most important ones, the top priority issues are grouped to
 The Todo pipe contains just a handful of the most important and essential issues. It serves two purposes, to provide enough task for the development team and restrict the number of choices to the minimum. The developers don't start implementing a feature right away when an issue gets in the Backlog. Either the team leader assign the issues to the other members or the individuals assigns them to themselves from the Todo list. This is the process of putting the issue into the In Progress status.
 
 #### In progress
-From this stage it is common that an issue belongs to only one person. This way it is clear who is working on what. It can be easily determined whether someone is or is not working on a task at the moment. For efficiency it is best if everyone is occupied with tasks at any time, minimizing idle time for team members.
+From this stage it is common that an issue belongs to only one person. This way it is clear who is working on what. It can be easily determined whether someone is or is not working on a task at the moment. For efficiency it is best if everyone is occupied with tasks at any time, minimizing idle time for team members. An issue is a single individual's responsibility unless the situatuion requires otherwise. When an issue's development part is finished or thought as is finished, a verification is sought from other personnel with authority.
 
 #### Verify
+For any issue claimed to be finished, the next step is to pass an acceptance test. The person accepting or rejecting the feauture is within the team. The inner verification takes place before it gets out to the users. The reviewer takes responsibility for the issue just as much as the developer who implemented the feature.
+
 
 #### Done
+After the issue is verified by the appointed person, it is moved to the Done stage. When these developments go live and the client gains access to the desired outcome the involved issues can then be closed removing them from the board.
+
+
+Further topics
+ - The description about the issue is incomplete. What can I do?
+ - I need help with the issue. Who can I turn to?
+ - There's a problem with the implementation. How can I communicate effectively?
